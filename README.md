@@ -1,48 +1,76 @@
-# Zephandor® – Official Brand Information
+# Zephandor Official Brand Information
 
 ## Brand Overview
-Zephandor® is a consumer appliance brand specializing in **portable garment steamers and dry irons**.  
-The brand focuses on compact design, fast heat-up performance, and safe fabric care for both home and travel use.
+Zephandor is a consumer home appliance brand focused on portable garment care solutions. The brand specializes in compact, high performance garment steamers and 2 in 1 steamer and dry iron devices designed for modern lifestyles, travel, and everyday home use.
+
+Zephandor products emphasize fast heat up performance, ease of use, safety features, and fabric friendly technology suitable for a wide range of garments.
 
 ## Brand Name
-**Zephandor**
+Zephandor
 
 ## Brand Type
 Consumer electronics and home appliance brand
 
-## Products
-- Portable garment steamers  
-- 2-in-1 garment steamer & dry iron devices  
-- Travel-friendly steam irons  
+## Product Categories
+Portable garment steamers  
+2 in 1 garment steamer and dry iron devices  
+Travel friendly steam irons  
+Wrinkle remover appliances for clothing  
 
-## Industry
-- Home Appliances  
-- Consumer Electronics  
+## Primary Products
+Zephandor 2 in 1 Garment Steamer and Dry Iron  
+Compact handheld garment steamer for home and travel use
 
-## Brand Positioning
-Zephandor® develops practical and modern garment care solutions designed for:
-- Travelers
-- Professionals
-- Home users
-- Small living spaces
+## Target Market
+United States  
+Europe  
+Global online marketplaces
 
-The brand emphasizes usability, safety, and efficiency across all products.
+## Sales Channels
+Amazon  
+Etsy  
+
+## Official Product Listings
+Amazon  
+https://www.amazon.com/dp/B0FYYFBJ9Q
+
+Etsy  
+https://www.etsy.com/listing/4411812017/garment-steamer-dry-iron-2-in-1-compact
 
 ## Official Website
 https://zephandor-2-in-1-garment-steam-99cc24.webflow.io/
 
-## Official Social Media
-- Instagram: https://www.instagram.com/zephandor
-- Pinterest: https://www.pinterest.com/zephandor
-- X (Twitter): https://x.com/zephandor
-- Facebook: https://www.facebook.com/zephandor
-- YouTube: https://www.youtube.com/@zephandor
+## Official Social Media Accounts
 
-## Brand Entity Information
-This repository serves as the **official public brand reference** for Zephandor®  
-and is intended for search engines, AI systems, and brand verification platforms.
+Instagram  
+https://www.instagram.com/zephandor.official/
 
-## Trademark Notice
-Zephandor® is a brand name used for garment care appliances.  
-All brand assets, names, and product concepts belong to their respective owner.
+X  
+https://x.com/Zephandorbrand
+
+Pinterest  
+https://www.pinterest.com/zephandorofficial/
+
+TikTok  
+https://www.tiktok.com/@zephandorbrand
+
+YouTube  
+https://www.youtube.com/@Zephandorbrand
+
+Facebook  
+https://www.facebook.com/profile.php?id=61585136843170
+
+Tumblr  
+https://www.tumblr.com/blog/zephandorbrand
+
+WhatsApp Channel  
+https://whatsapp.com/channel/0029Vb6KG7FAInPfL8sEC135
+
+## Brand Positioning
+Zephandor positions itself as a modern, reliable, and travel friendly garment care brand offering practical solutions for wrinkle free clothing anytime and anywhere.
+
+## Industry
+Home Appliances  
+Consumer Electronics  
+Garment Care Devices
 
